@@ -13,7 +13,7 @@ Single webpage about Lemon Drizzle Slices Recipe
 
 ## The desktop overview
 
-![The overview](./assignments/uib-content-lemon-drizzle-Scientific-Research/images/Desktop.png "The general overview")
+![The overview](~/assignments/uib-content-lemon-drizzle-Scientific-Research/images/Desktop.png "The general overview")
 
 ## The online version
 
