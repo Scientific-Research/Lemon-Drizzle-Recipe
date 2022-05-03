@@ -13,7 +13,7 @@ Single webpage about Lemon Drizzle Slices Recipe
 
 ## The desktop overview
 
-![The overview](./images/Desktop.png "The general overview")
+![The overview](./Desktop.png "The general overview")
 
 ## The online version
 
